@@ -1,0 +1,18 @@
+From: Mario Rojas Garcia <Mario.Rojas.Garcia@gds.ey.com> 
+Sent: Wednesday, March 6, 2024 12:29 PM
+To: Diego Bello Santalla <Diego.Bello.Santalla@es.ey.com>
+Subject: Tareas para Elypse
+
+Hola Diego!
+Necesitamos crear un appservices para la parte de producción. En él , se tendrá que desplegar Elypse de forma privada para que sea accesible desde la intranet. 
+Hay que añadir una nueva funcionalidad para que, cuando se produzca un fallo, guarde logs en kibana y poder monitorizarlo.
+Con lo que necesites, me comentas.
+Un saludo,
+
+
+ 	Mario Rojas García | Staff | Consulting
+EY Global Services (Spain)
+Calle Severo Ochoa 21 (PTA), Málaga, Spain 
+Mobile: +34 658 55 86 76 Mario.Rojas.Garcia@gds.ey.com   
+Website: http://www.ey.com
+
